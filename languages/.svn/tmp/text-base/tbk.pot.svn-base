@@ -1,0 +1,419 @@
+#. extracted from english.ini
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-18 22:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.3.0\n"
+
+#: [AboutBox]00000001
+msgctxt "[AboutBox]00000001"
+msgid "About..."
+msgstr ""
+
+#: [AboutBox]00000002
+msgctxt "[AboutBox]00000002"
+msgid "Toolbar Uninstaller"
+msgstr ""
+
+#: [AboutBox]00000004
+msgid "© 2007 Decomputeur.nl"
+msgstr ""
+
+#: [AboutBox]00000005
+msgid ""
+"Thanks to:\\nTwistedMetal for the icons and many of the toolbars in the "
+"detectionfile\\nEvery member of Piriform\\n\\nThis program is an idea "
+"of:\\nEagle00789"
+msgstr ""
+
+#: [AboutBox]00000006
+msgctxt "[AboutBox]00000006"
+msgid "Program"
+msgstr ""
+
+#: [AboutBox]00000007
+msgid "Detection"
+msgstr ""
+
+#: [AboutBox]00000009
+msgid "OK"
+msgstr ""
+
+#: [Form1]00000001
+msgctxt "[Form1]00000001"
+msgid "White-List"
+msgstr ""
+
+#: [Form2]00000001
+msgctxt "[Form2]00000001"
+msgid "Black-List"
+msgstr ""
+
+#: [frmBlackList]00000001
+msgctxt "[frmBlackList]00000001"
+msgid "Black-List"
+msgstr ""
+
+#: [frmBlackList]00000002
+msgid "Blacklisted toolbars"
+msgstr ""
+
+#: [frmBlackList]00000003
+msgctxt "[frmBlackList]00000003"
+msgid "&Close"
+msgstr ""
+
+#: [frmBugReport]00000001
+msgid "Bug Report"
+msgstr ""
+
+#: [frmBugReport]00000002
+msgid ""
+"Dear User.\\n\\nUnfortunately, a bug has been encountered. To help solve this "
+"bug, it is recommended to send a bug-report.\\nTo send a bug-report, just "
+"fill out the form below and click on Send. Every info you see below is all "
+"the information that is being send to us.\\nYou can enter your own message to "
+"describe what you were doing when the bug occured. This is not neccesary, "
+"but it would be helpfull to us to solve this bug faster.\\n\\nThanks in "
+"advance for sending us this bug."
+msgstr ""
+
+#: [frmBugReport]00000003
+msgid "Info to Send"
+msgstr ""
+
+#: [frmBugReport]00000004
+msgid "Logfile (if available)"
+msgstr ""
+
+#: [frmBugReport]00000005
+msgid "Program Version"
+msgstr ""
+
+#: [frmBugReport]00000006
+msgid "Dat File Version"
+msgstr ""
+
+#: [frmBugReport]00000007
+msgid "What were you doing when the error occured?"
+msgstr ""
+
+#: [frmBugReport]00000008
+msgid "&Send"
+msgstr ""
+
+#: [frmBugReport]00000009
+msgid "&Don't Send"
+msgstr ""
+
+#: [frmMain]00000001
+msgctxt "[frmMain]00000001"
+msgid "Toolbar Uninstaller"
+msgstr ""
+
+#: [frmMain]00000002
+msgid "Installed Toolbars"
+msgstr ""
+
+#: [frmMain]00000003
+msgid "Toolbars to delete"
+msgstr ""
+
+#: [frmMain]00000004
+msgid "&Remove"
+msgstr ""
+
+#: [frmMain]00000005
+msgid "&Options"
+msgstr ""
+
+#: [frmMain]00000006
+msgid "Re&scan"
+msgstr ""
+
+#: [frmMain]00000007
+msgid "TbU.chm"
+msgstr ""
+
+#: [frmOptions]00000001
+msgid "Options"
+msgstr ""
+
+#: [frmOptions]00000002
+msgid "Message Options"
+msgstr ""
+
+#: [frmOptions]00000003
+msgid "Show warning before &removing toolbars"
+msgstr ""
+
+#: [frmOptions]00000004
+msgid "Show warning before &closing browsers"
+msgstr ""
+
+#: [frmOptions]00000005
+msgid "Log Options"
+msgstr ""
+
+#: [frmOptions]00000006
+msgid "Create &log-file"
+msgstr ""
+
+#: [frmOptions]00000007
+msgid "Logging Options"
+msgstr ""
+
+#: [frmOptions]00000008
+msgid "&Detailed Log Files"
+msgstr ""
+
+#: [frmOptions]00000009
+msgid "Clear old logfile at program start"
+msgstr ""
+
+#: [frmOptions]00000010
+msgid "Updates"
+msgstr ""
+
+#: [frmOptions]00000011
+msgid "Check for &updates on program start"
+msgstr ""
+
+#: [frmOptions]00000012
+msgctxt "[frmOptions]00000012"
+msgid "&Cancel"
+msgstr ""
+
+#: [frmOptions]00000013
+msgid "&OK"
+msgstr ""
+
+#: [frmOptions]00000014
+msgid "U&pdate"
+msgstr ""
+
+#: [frmOptions]00000015
+msgid "Language"
+msgstr ""
+
+#: [frmOptions]00000016
+msgid "Lists"
+msgstr ""
+
+#: [frmOptions]00000017
+msgid "White-list"
+msgstr ""
+
+#: [frmOptions]00000018
+msgid "Black-list"
+msgstr ""
+
+#: [frmOptions]00000019
+msgid "All Toolbars"
+msgstr ""
+
+#: [frmUpdate]00000001
+msgid "Update"
+msgstr ""
+
+#: [frmUpdate]00000002
+msgid "Idle..."
+msgstr ""
+
+#: [frmUpdate]00000003
+msgid "Installed version"
+msgstr ""
+
+#: [frmUpdate]00000004
+msgctxt "[frmUpdate]00000004"
+msgid "Detection File:"
+msgstr ""
+
+#: [frmUpdate]00000005
+msgctxt "[frmUpdate]00000005"
+msgid "Program"
+msgstr ""
+
+#: [frmUpdate]00000006
+msgid "Online Version"
+msgstr ""
+
+#: [frmUpdate]00000007
+msgctxt "[frmUpdate]00000007"
+msgid "Program"
+msgstr ""
+
+#: [frmUpdate]00000008
+msgctxt "[frmUpdate]00000008"
+msgid "Detection File:"
+msgstr ""
+
+#: [frmUpdate]00000009
+msgctxt "[frmUpdate]00000009"
+msgid "&Close"
+msgstr ""
+
+#: [frmUpdate]00000010
+msgid "&Check"
+msgstr ""
+
+#: [frmUpdate]00000011
+msgid "&Update"
+msgstr ""
+
+#: [frmWait]00000001
+msgctxt "[frmWait]00000001"
+msgid "Please wait while scanning"
+msgstr ""
+
+#: [frmWait]00000002
+msgctxt "[frmWait]00000002"
+msgid "Currently scanning for:"
+msgstr ""
+
+#: [frmWhiteList]00000001
+msgctxt "[frmWhiteList]00000001"
+msgid "White-List"
+msgstr ""
+
+#: [frmWhiteList]00000002
+msgid "Toolbars"
+msgstr ""
+
+#: [frmWhiteList]00000003
+msgid "Whitelist"
+msgstr ""
+
+#: [frmWhiteList]00000004
+msgctxt "[frmWhiteList]00000004"
+msgid "&Cancel"
+msgstr ""
+
+#: [frmWhiteList]00000005
+msgid "&Ok"
+msgstr ""
+
+#: [$CONSTANTS]sCloseBrowser1
+msgid ""
+"Please close all running instances of Mozilla Firefox and Internet Explorer."
+msgstr ""
+
+#: [$CONSTANTS]sCloseBrowser2
+msgid ""
+"Click OK to close all instances of these application or click Cancel to "
+"return to the program without deleting a toolbar."
+msgstr ""
+
+#: [$CONSTANTS]sCloseBrowserFailed
+msgid ""
+"Failed to close the running programs. Please terminate them yourself and try "
+"again.."
+msgstr ""
+
+#: [$CONSTANTS]sHelpParams1
+msgid "These are the supported parameters:"
+msgstr ""
+
+#: [$CONSTANTS]sHelpParams2
+msgid "/? - Shows this dialog box"
+msgstr ""
+
+#: [$CONSTANTS]sHelpParams3
+msgid ""
+"/update - Only checks if an update is available, downloads and installs it"
+msgstr ""
+
+#: [$CONSTANTS]sHelpParams4
+msgid "/auto - Automatic cleaning of all detected toolbars"
+msgstr ""
+
+#: [$CONSTANTS]sMainCaption
+msgid "Detecting %s toolbars"
+msgstr ""
+
+#: [$CONSTANTS]sMyMenuCaption1
+msgctxt "[$CONSTANTS]sMyMenuCaption1"
+msgid "About..."
+msgstr ""
+
+#: [$CONSTANTS]sNoDatText
+msgid "The DTZ file has not been found. Please reinstall the program."
+msgstr ""
+
+#: [$CONSTANTS]sNoDatTitle
+msgid "No DTZ Found"
+msgstr ""
+
+#: [$CONSTANTS]sReboot1
+msgid "To finish the uninstallation, it is recommended that you reboot the pc."
+msgstr ""
+
+#: [$CONSTANTS]sReboot2
+msgid "Click Yes to Reboot, or No to keep working"
+msgstr ""
+
+#: [$CONSTANTS]sRemoveToolbar1
+msgid "Are you sure to remove the selected toolbars?"
+msgstr ""
+
+#: [$CONSTANTS]sRemoveToolbar2
+msgid "Click Yes to remove, or click No to keep the selected toolbbars."
+msgstr ""
+
+#: [$CONSTANTS]sRemovingCaption
+msgid "Currently removing:"
+msgstr ""
+
+#: [$CONSTANTS]sRemovingWait
+msgid "Please wait while removing"
+msgstr ""
+
+#: [$CONSTANTS]sScanningCaption
+msgctxt "[$CONSTANTS]sScanningCaption"
+msgid "Currently scanning for:"
+msgstr ""
+
+#: [$CONSTANTS]sScanningWait
+msgctxt "[$CONSTANTS]sScanningWait"
+msgid "Please wait while scanning"
+msgstr ""
+
+#: [$CONSTANTS]sUpdateCheckFile
+msgid "Downloading Checkfile..."
+msgstr ""
+
+#: [$CONSTANTS]sUpdateDatFile
+msgid "Downloading Dat-file Update..."
+msgstr ""
+
+#: [$CONSTANTS]sUpdateDatFileFinished
+msgid "Finished Downloading Dat-file Update..."
+msgstr ""
+
+#: [$CONSTANTS]sUpdateDatFileUpToDate
+msgid "The Dat-file is already up to date."
+msgstr ""
+
+#: [$CONSTANTS]sUpdateProgram
+msgid "Downloading Program Update..."
+msgstr ""
+
+#: [$CONSTANTS]sUpdateProgramMessage1
+msgid "A new version has appeard but it requires a second install"
+msgstr ""
+
+#: [$CONSTANTS]sUpdateProgramMessage2
+msgid "The installation will now be automaticly started."
+msgstr ""
+
+#: [$CONSTANTS]sUpdateProgramUpToDate
+msgid "The program is already up to date."
+msgstr ""

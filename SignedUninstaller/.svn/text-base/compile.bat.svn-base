@@ -1,0 +1,4 @@
+@echo off
+..\certificates\signtool sign /f ..\certificates\codesign.p12 /p 170783 /v /t http://timestamp.comodoca.com/authenticode uninst-5.2.2-b96ccbc715.e32
+..\certificates\signtool.exe verify /pa /v uninst-5.2.2-b96ccbc715.e32
+pause

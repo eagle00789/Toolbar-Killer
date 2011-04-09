@@ -1,0 +1,82 @@
+1.0.0.1 - 28-12-2007
+--------------------
+- Small Visual Fixes
+- Added a manifest file for:
+	= Theme usage, TBU will now correctly use any theme used by windows xp or vista
+	= Set privileges for running on vista
+- Made vista compatible
+- [0000016]: [Program] E-Mail adress to report bugs isn't correct (eagle00789)
+- Fixed the Helpfile Link in the startmenu
+- Added a few more toolbars
+
+1.0.0.0 - 29-08-2007
+--------------------
+- Fixed a small bug in the caption code
+- Changed the update procedure
+- [0000001] Error after display of options form (eagle00789)
+- [0000005] Need more logfile entries (eagle00789)
+- [0000011] automaticly send bugreports on crashes (eagle00789)
+- [0000014] Risklevels for high risk toolbars (eagle00789)
+- [0000015] List index out of bounds (-1) (eagle00789)
+- [0000013] smaller detection file (eagle00789)
+- Updated translations to include all the new functions
+- [0000012] Missing helpfile (eagle00789)
+
+0.9.9.6 - 19-08-2007
+--------------------
+- Fixed a small bug in the translation code
+- Detection by Registry key is now possible
+- FolderDelete Detection File Entry updated for %ProgramFiles%
+
+0.9.9.5 - 17-08-2007
+--------------------
+- Made the program multi-language
+- Small bug fixes in the options-screen
+
+0.9.9.4 - 12-08-2007
+--------------------
+- Added a wait screen for the long progresses (could flash an extra screen)
+- Added %opprofile% for easy detection of the opera profile
+- Added the icons for Netscape and Opera for future toolbars
+- Removed the text "For Internet Explorer" and "For Firefox" for almost every toolbar (toolbars that have a toolbar for more then 1 different browser still have this)
+- Removed the update button and replaced it with an options button.
+- Added the abbility to create a log-file
+- Added the abbility to create a detailed logfile
+- Added the abbility to clear the logifle at the start of the program
+- Added the abbility to check automaticly on updates on program start
+- added the abbility to remove the warnings you get before removing toolbars
+
+0.9.9.3 - 06-08-2007
+--------------------
+- Fixed the automatic update
+- Removed checkboxes in the toolbar lists and replaced them with an icon to see for wich brwoser they belong to
+- [0000004] Only 1 instance of the program can run (eagle00789)
+- Removed Dat File version out of the  caption
+- Small Grammar Fix
+- Added an aboutbox
+- Removed the update button in the caption and removed the exit button and replaced the latter with an update button
+
+0.9.8.5 - 05-08-2007
+--------------------
+- Changed internal workings of detection engine
+- Added a few extra dat-file items
+- Added an extra file to the installation called helper.exe. This file removes some of those other pesky toolbars (like MyWebSearch)
+- Small Bug Fixes
+
+0.9.7.233 - 03-08-2007
+----------------------
+- Added a tooltip to the update button
+- [0000003] Moved the update button (eagle00789)
+- [0000002] Changed the tskbar name from tbk to Toolbar Uninstaller (eagle00789)
+- Updated the updatecode due to a bug
+
+0.9.7.1 - 03-08-2007
+--------------------
+- Update Checker added
+- Minor Tweaks to the detection Mechanism
+- Speed improvements during delete
+- minor bugs removed
+
+0.2.7.1 - 02-08-2007
+--------------------
+- Initial Release

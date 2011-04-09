@@ -1,0 +1,120 @@
+TargetApplication=tbk
+Author=Chris Simon
+SourceLANGID=1043
+LANGID=1043
+Generator=DKLang Translation Editor v3.0
+LastModified=2008-01-11 22:50:54
+
+[AboutBox]
+00000001=About...
+00000002=Toolbar Uninstaller
+00000004=© 2007 Decomputeur.nl
+00000005=Thanks to:\nTwistedMetal for the icons and many of the toolbars in the detectionfile\nEvery member of Piriform\n\nThis program is an idea of:\nEagle00789
+00000006=Program
+00000007=Detection
+00000009=OK
+
+[Form1]
+00000001=White-List
+
+[Form2]
+00000001=Black-List
+
+[frmBlackList]
+00000001=Black-List
+00000002=Blacklisted toolbars
+00000003=&Close
+
+[frmBugReport]
+00000001=Bug Report
+00000002=Dear User.\n\nUnfortunately, a bug has been encountered. To help solve this bug, it is recommended to send a bug-report.\nTo send a bug-report, just fill out the form below and click on Send. Every info you see below is all the information that is being send to us.\nYou can enter your own message to describe what you were doing when the bug occured. This is not neccesary, but it would be helpfull to us to solve this bug faster.\n\nThanks in advance for sending us this bug.
+00000003=Info to Send
+00000004=Logfile (if available)
+00000005=Program Version
+00000006=Dat File Version
+00000007=What were you doing when the error occured?
+00000008=&Send
+00000009=&Don't Send
+
+[frmMain]
+00000001=Toolbar Uninstaller
+00000002=Installed Toolbars
+00000003=Toolbars to delete
+00000004=&Remove
+00000005=&Options
+00000006=Re&scan
+00000007=TbU.chm
+
+[frmOptions]
+00000001=Options
+00000002=Message Options
+00000003=Show warning before &removing toolbars
+00000004=Show warning before &closing browsers
+00000005=Log Options
+00000006=Create &log-file
+00000007=Logging Options
+00000008=&Detailed Log Files
+00000009=Clear old logfile at program start
+00000010=Updates
+00000011=Check for &updates on program start
+00000012=&Cancel
+00000013=&OK
+00000014=U&pdate
+00000015=Language
+00000016=Lists
+00000017=White-list
+00000018=Black-list
+00000019=All Toolbars
+
+[frmUpdate]
+00000001=Update
+00000002=Idle...
+00000003=Installed version
+00000004=Detection File:
+00000005=Program
+00000006=Online Version
+00000007=Program
+00000008=Detection File:
+00000009=&Close
+00000010=&Check
+00000011=&Update
+
+[frmWait]
+00000001=Please wait while scanning
+00000002=Currently scanning for:
+
+[frmWhiteList]
+00000001=White-List
+00000002=Toolbars
+00000003=Whitelist
+00000004=&Cancel
+00000005=&Ok
+
+[$CONSTANTS]
+sCloseBrowser1=Please close all running instances of Mozilla Firefox and Internet Explorer.
+sCloseBrowser2=Click OK to close all instances of these application or click Cancel to return to the program without deleting a toolbar.
+sCloseBrowserFailed=Failed to close the running programs. Please terminate them yourself and try again..
+sHelpParams1=These are the supported parameters:
+sHelpParams2=/? - Shows this dialog box
+sHelpParams3=/update - Only checks if an update is available, downloads and installs it
+sHelpParams4=/auto - Automatic cleaning of all detected toolbars
+sMainCaption=Detecting %s toolbars
+sMyMenuCaption1=About...
+sNoDatText=The DTZ file has not been found. Please reinstall the program.
+sNoDatTitle=No DTZ Found
+sReboot1=To finish the uninstallation, it is recommended that you reboot the pc.
+sReboot2=Click Yes to Reboot, or No to keep working
+sRemoveToolbar1=Are you sure to remove the selected toolbars?
+sRemoveToolbar2=Click Yes to remove, or click No to keep the selected toolbbars.
+sRemovingCaption=Currently removing:
+sRemovingWait=Please wait while removing
+sScanningCaption=Currently scanning for:
+sScanningWait=Please wait while scanning
+sUpdateCheckFile=Downloading Checkfile...
+sUpdateDatFile=Downloading Dat-file Update...
+sUpdateDatFileFinished=Finished Downloading Dat-file Update...
+sUpdateDatFileUpToDate=The Dat-file is already up to date.
+sUpdateProgram=Downloading Program Update...
+sUpdateProgramMessage1=A new version has appeard but it requires a second install
+sUpdateProgramMessage2=The installation will now be automaticly started.
+sUpdateProgramUpToDate=The program is already up to date.

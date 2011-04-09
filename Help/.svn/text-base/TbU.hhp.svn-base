@@ -1,0 +1,13 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=TbU.chm
+Contents file=Table of Contents.hhc
+Default topic=welcome.htm
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 Engels (Verenigde Staten)
+Title=Toolbar Uninstaller
+
+
+[INFOTYPES]
+

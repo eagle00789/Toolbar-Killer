@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Black-list</Title>
+</HEAD>
+<style>
+body {
+	font-family: Arial;
+}
+</style>
+<BODY>
+<center><H1>Black-list</H1></center>
+<p>This is the black-list screen.</p>
+<center><img src="black-list.jpg"></center>
+<p>Here you can see a list of all toolbars that are automaticly marked for deletion if they are detected.</p>
+</BODY>
+</HTML>

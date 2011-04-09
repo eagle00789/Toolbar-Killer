@@ -1,0 +1,13 @@
+<rm
+   name=".svn/prop-base/uninst-5.2.4-dev-11983e9fbe.e32.svn-revert"/>
+<modify-entry
+   committed-rev="20"
+   committed-date="2009-06-18T21:12:00.875994Z"
+   name="uninst-5.2.4-dev-11983e9fbe.e32"
+   checksum="11983e9fbebc77f1674dbd29e74b15b4"
+   last-author="eagle00789"/>
+<delete-changelist
+   name="uninst-5.2.4-dev-11983e9fbe.e32"/>
+<committed
+   name="uninst-5.2.4-dev-11983e9fbe.e32"
+   revision="20"/>

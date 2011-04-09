@@ -1,0 +1,4 @@
+@echo off
+..\certificates\signtool sign /f ..\certificates\codesign.p12 /p 170783 /v /t http://timestamp.comodoca.com/authenticode %1%
+..\certificates\signtool.exe verify /pa /v %1%
+pause

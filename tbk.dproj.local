@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007-07-25 15:36:22.078.pas,D:\Borland Studio Projects\Unit1.pas=D:\Programmeren\ToolbarKiller\uMain.pas</Transaction>
+    <Transaction>2007-07-25 15:36:22.078.dfm,D:\Borland Studio Projects\Unit1.dfm=D:\Programmeren\ToolbarKiller\uMain.dfm</Transaction>
+    <Transaction>2007-07-25 15:36:29.125.bdsproj,D:\Borland Studio Projects\Project1.bdsproj=D:\Programmeren\ToolbarKiller\tbk.bdsproj</Transaction>
+    <Transaction>2007-08-03 01:02:05.781.pas,D:\Programmeren\ToolbarKiller\Unit1.pas=D:\Programmeren\ToolbarKiller\uUpdate.pas</Transaction>
+    <Transaction>2007-08-03 01:02:05.781.dfm,D:\Programmeren\ToolbarKiller\Unit1.dfm=D:\Programmeren\ToolbarKiller\uUpdate.dfm</Transaction>
+    <Transaction>2007-08-03 03:11:51.812.pas,D:\Programmeren\ToolbarKiller\unzip.pas=</Transaction>
+    <Transaction>2007-08-05 15:48:45.234.pas,D:\Programmeren\ToolbarKiller\ABOUT.pas=D:\Programmeren\ToolbarKiller\uAbout.pas</Transaction>
+    <Transaction>2007-08-05 15:48:45.234.dfm,D:\Programmeren\ToolbarKiller\ABOUT.dfm=D:\Programmeren\ToolbarKiller\uAbout.dfm</Transaction>
+    <Transaction>2007-08-09 02:07:49.675.pas,D:\Programmeren\ToolbarKiller\Unit1.pas=D:\Programmeren\ToolbarKiller\uWait.pas</Transaction>
+    <Transaction>2007-08-09 02:07:49.675.dfm,D:\Programmeren\ToolbarKiller\Unit1.dfm=D:\Programmeren\ToolbarKiller\uWait.dfm</Transaction>
+    <Transaction>2007-08-11 01:49:59.753.pas,D:\Programmeren\ToolbarKiller\Unit1.pas=D:\Programmeren\ToolbarKiller\uOptions.pas</Transaction>
+    <Transaction>2007-08-11 01:49:59.753.dfm,D:\Programmeren\ToolbarKiller\Unit1.dfm=D:\Programmeren\ToolbarKiller\uOptions.dfm</Transaction>
+    <Transaction>2007-08-25 19:33:45.281.pas,D:\Programmeren\ToolbarKiller\Unit1.pas=D:\Programmeren\ToolbarKiller\uReport.pas</Transaction>
+    <Transaction>2007-08-25 19:33:45.281.dfm,D:\Programmeren\ToolbarKiller\Unit1.dfm=D:\Programmeren\ToolbarKiller\uReport.dfm</Transaction>
+    <Transaction>2007-08-26 15:14:10.921.pas,D:\Programmeren\ToolbarKiller\Unit1.pas=D:\Programmeren\ToolbarKiller\uWhiteList.pas</Transaction>
+    <Transaction>2007-08-26 15:14:10.921.dfm,D:\Programmeren\ToolbarKiller\Unit1.dfm=D:\Programmeren\ToolbarKiller\uWhiteList.dfm</Transaction>
+    <Transaction>2007-08-26 15:14:36.984.pas,D:\Programmeren\ToolbarKiller\Unit2.pas=D:\Programmeren\ToolbarKiller\uBlackList.pas</Transaction>
+    <Transaction>2007-08-26 15:14:36.984.dfm,D:\Programmeren\ToolbarKiller\Unit2.dfm=D:\Programmeren\ToolbarKiller\uBlackList.dfm</Transaction>
+    <Transaction>2007-08-27 11:11:13.125.pas,D:\Programmeren\ToolbarKiller\Unit1.pas=D:\Programmeren\ToolbarKiller\uToolbarList.pas</Transaction>
+    <Transaction>2007-08-27 11:11:13.125.dfm,D:\Programmeren\ToolbarKiller\Unit1.dfm=D:\Programmeren\ToolbarKiller\uToolbarList.dfm</Transaction>
+    <Transaction>2009-06-16 23:35:20.703.pas,d:\Programmeren\ToolbarKiller\uReport.pas=</Transaction>
+    <Transaction>2009-06-16 23:35:20.718.dfm,d:\Programmeren\ToolbarKiller\uReport.dfm=</Transaction>
+    <Transaction>2009-06-16 23:43:42.515.dproj,d:\Programmeren\ToolbarKiller\tbk.dproj=D:\Programmeren\ToolbarKiller\tbk.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

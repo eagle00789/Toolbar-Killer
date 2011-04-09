@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<Title>Main screen</Title>
+</HEAD>
+<style>
+body {
+	font-family: Arial;
+}
+</style>
+<BODY>
+<center><H1>Main Screen</H1></center>
+<p>Below is a picture of the main screen. After the picture is a description of the workings of it all.</p>
+<center><img src="Main Screen.jpg"></center>
+<p>As you can see is the program devided into 2 separate lists.<br>
+On the left there is the list with all the detected toolbars, and on the right there is the list with the toolbars that are going to be removed.</p>
+<p>It could be that both lists are empty when you start the program, but don't worry, it only means that it hasn't detected any of the detectable toolbars.</p>
+<p>Between the 2 lists are 4 buttons. From top to bottom:</p>
+<ul><li>Top button: Move the selected toolbars from the left list (detected toolbars) to the right list (Toolbars to ready to be deleted)</li>
+<li>2nd button: Move <B>ALL</B> detected toolbars from the left list to the right list</li>
+<li>3rd button: Move <B>ALL</B> detected toolbars from the right  list to the left list</li>
+<li>Bottom button:  Move the selected toolbars from the right list (Toolbars to ready to be deleted) to the left list (detected toolbars)</li></ul>
+<p>The 3 buttons on the bottom of the screen:</p>
+<ul><li><a href="options.htm">Options</a>: Go to the options screen</li>
+<li>Rescan: Do another scan to find installed toolbars</li>
+<li>Remove: Remove (uninstall and cleanup any leftovers) the toolbars that are in the right list</li></ul>
+</BODY>
+</HTML>

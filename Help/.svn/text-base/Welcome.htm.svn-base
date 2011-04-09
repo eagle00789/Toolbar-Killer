@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<Title>Welcome</Title>
+</HEAD>
+<style>
+body {
+	font-family: Arial;
+}
+</style>
+<BODY>
+<center><H1>Welcome</H1></center>
+<center><img src="header.png"></center>
+<p>
+The Toolbar Uninstaller is a <b>freeware </b>program to get rid of unwanted toolbars. Many programs come bundled with a toolbar that gets installed automaticly if you don't pay attention during the installation. Even freewareprograms come bundled with toolbars.
+</p>
+<p>
+As time progresses, there are now more then 10.000 different toolbars and counting. Toolbar Uninstaller (TbU for short) will be able to find some of them and remove them.
+</p>
+<p>
+You can help us out by adding new toolbars to the detection list that (after testing) will be added to the detection and removal list. Currently there is no possibility for this other then the forum. In a few days time, this will change. All you have to do is submit a form and after testing it will be added to the list.
+</p>
+<p>
+You can also support us by donating to us. Just click the ChipIn button to donate using a secure server.
+</p>
+<center>
+<object height="60" width="234">
+	<param name="movie" value="http://widget.chipin.com/widget/id/475f846af9205e13">
+	
+	<param name="wmode" value="transparent">
+	
+	<embed src="http://widget.chipin.com/widget/id/475f846af9205e13" allowscriptaccess="never" type="application/x-shockwave-flash" wmode="transparent" height="60" width="234">
+</object>
+</center>
+</BODY>
+</HTML>

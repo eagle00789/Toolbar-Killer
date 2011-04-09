@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>White-list</Title>
+</HEAD>
+<style>
+body {
+	font-family: Arial;
+}
+</style>
+<BODY>
+<center><H1>White-list</H1></center>
+<p>This is the white-list screen.</p>
+<center><img src="white-list.jpg"></center>
+<p>This screen is devided into 2 lists. On the left, the list of toolbars that can be whitelisted (these are all toolbars except the blacklisted toolbars). On the right there is the list of toolbars that are whitelisted. Between these 2 lists are 2 buttons:</p>
+<ul><li>> To move the selected toolbars to the White-list</li><li>< to remove the selected toolbars from the white-list</li></ul>
+<p>The white list is to mark any toolbar that must always be kept. Any toolbar that has been whitelisted will not be detected. If any toolbar has been added to the blacklist and that same toolbar has been added to the white list, the black list will come first, thus removing that toolbar from the white list.</p>
+</BODY>
+</HTML>

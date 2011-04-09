@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<u3manifest version="1.0">
+  <application uuid="5A70C0B7-9038-482E-B0EF-AF4CF2BCAA63" version="1.0.0.1">
+    <icon>TBU32.ico</icon>
+    <name>Toolbar Uninstaller</name>
+    <description>Uninstall and/or remove unwanted toolbars</description>
+    <shortDescription />
+    <vendor url="http://www.decomputeur.nl">Decomputeur.nl</vendor>
+    <options>
+      <minFreeSpace>3</minFreeSpace>
+      <upgrade appData="overwrite" deviceExec="overwrite" />
+    </options>
+    <i18n />
+  </application>
+  <actions>
+    <hostCleanUp cmd="%U3_HOST_EXEC_PATH%\appstop.exe"> -t -s tbk</hostCleanUp>
+    <appStop cmd="%U3_HOST_EXEC_PATH%\appstop.exe">-t -s tbk</appStop>
+    <appStart cmd="%U3_DEVICE_EXEC_PATH%\tbk.exe" />
+  </actions>
+</u3manifest>

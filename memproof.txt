@@ -1,0 +1,23 @@
+Errors               Error                        6         6           0           0
+Memory               Virtual Memory               1         3        4096     1318912
+COM                  CoInitialize                 0         1           0           0
+OLE                  SysString                    0       310           0       11836
+GDI                  Pen                          0         1           0           0
+GDI                  Bitmap                       0         2           0           0
+GDI                  Brush                        0         5           0           0
+GDI                  Font                         0         5           0           0
+GDI                  Palette                      0         1           0           0
+GDI                  DC                           0         1           0           0
+User                 Window                       0        16           0           0
+User                 Icon                         0         1           0           0
+User                 Cursor                       0         7           0           0
+User                 Window DC                    0         1           0           0
+Kernel               File                         0         1           0           0
+Kernel               File Mapping                 0         1           0           0
+Kernel               File Mapping View            0         1           0           0
+Kernel               Mutex                        1         1           0           0
+Kernel               Event                        0         5           0           0
+Kernel               Critical Section             1        47           0           0
+Kernel               Critical Section Enter         0         5           0           0
+Kernel               Find First                   0         2           0           0
+Registry             Registry                     0         1           0           0
